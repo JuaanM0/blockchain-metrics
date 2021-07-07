@@ -48,7 +48,7 @@ The calls made in the development correspond to the following list of available 
               estimated_transaction_volume
               estimated_trasaction_volume_usd
               
--Wallet :
+- Wallet :
              
               My_wallet_n_users
               
