@@ -7,17 +7,17 @@ The calls made in the development correspond to the following list of available 
 
 - Currency : 
 
-             Total_Bitcoins
-             Market_Price
-             Market_Cap
-             Trade_Volume
+             total_bitcoins
+             market_price
+             market_cap
+             trade_volume
        
 - Blocks :       
  
-             Blocks_Size
-             Avg_Block_Size
-             N_Trasactions_Per_Block
-             N_Transactions_Total
+             blocks_size
+             avg_block_size
+             n_trasactions_per_block
+             n_transactions_total
              n_payments_per_block
              median_confirmation_time
              avg_confirmation_time
@@ -25,10 +25,10 @@ The calls made in the development correspond to the following list of available 
 
 - Minner : 
 
-              Hash_rate
-              Difficulty
-              Miners_reverve
-              Transaction_fees
+              hash_rate
+              difficulty
+              miners_reverve
+              transaction_fees
               cost_per_trasaction_percent
               cost_per_transaction
               pools
@@ -50,28 +50,6 @@ The calls made in the development correspond to the following list of available 
               
 - Wallet :
              
-              My_wallet_n_users
+              my_wallet_n_users
               
               
-              
-              
-              
-              
-              
-
-              
-              
-              
-              
-              
-              
-              
-              
-             
-            
-     
-            
-  
-  
-  
-         
