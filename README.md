@@ -53,3 +53,15 @@ The calls made in the development correspond to the following list of available 
               my_wallet_n_users
               
               
+              
+- Blockchain Explorer (pre_load_functions):
+
+              prefunction
+              prefunction_pool
+              prefunction_stats
+              prefunction_latstblock
+              prefunction_balance_tx
+              tickers_fiat
+              
+              
+              
