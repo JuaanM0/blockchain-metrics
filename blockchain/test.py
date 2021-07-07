@@ -6,11 +6,9 @@ Created on Wed Jul  7 11:53:48 2021
 @author: juannM
 """
 
-import blockchain
+from blockchain_metrics import blockchain_data
 
-block = blockchain.blockchain_stats_currency()
-
-
+block = blockchain_data.blockchain_stats_currency()
 
 
 #total bitcoins in circulation
@@ -26,7 +24,6 @@ block.plot_data()
 #Mining pools and plot pir
 block.pools()
 block.plot_pools_pie()
-
 
 
 
