@@ -15,9 +15,9 @@ The calls made in the development correspond to the following list of available 
 - Blocks :       
  
              Blocks_Size
-             Avg_block_size
-             n_trasactions_per_block
-             n_transactions_total
+             Avg_Block_Size
+             N_Trasactions_Per_Block
+             N_Transactions_Total
              n_payments_per_block
              median_confirmation_time
              avg_confirmation_time
